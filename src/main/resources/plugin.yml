@@ -1,0 +1,7 @@
+name: Speaker
+main: me.skymc.speaker.Speaker
+version: {$VERSION}
+
+commands:
+  speaker:
+    permission: speaker.admin

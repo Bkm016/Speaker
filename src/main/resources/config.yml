@@ -1,0 +1,30 @@
+# 插件配置
+Settings:
+  # 文本长度（字符）
+  TextLength: 30
+  # 标题喇叭命令
+  SpeakerTitleCommand: '/tlb'
+  # 血条喇叭命令
+  SpeakerBarCommand: '/blb'  
+ 
+# 标题喇叭
+TITLE:
+  # 物品在 TabooLib 中的名称
+  Item: '标题喇叭'
+  # 标题配置
+  Title: '&a大喇叭'
+  # 标题配置
+  Subtitle: '&f$player: &e$message'
+  # 持续时间（秒）
+  Stay: 10
+    
+# 血条喇叭
+BOSSBAR:
+  # 物品在 TabooLib 中的名称
+  Item: '血条喇叭'
+  # 血条配置
+  Bar: '&f$player: &e$message'
+  # 持续时间（秒）
+  Stay: 10
+  # 血条颜色（RED, YELLOW, PINK, GREEN, BLUE, PURPLE, WHITE）
+  Color: RED
